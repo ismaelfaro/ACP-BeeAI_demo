@@ -202,7 +202,7 @@ beeai run sequential-workflow \
     "steps": [
       {
         "agent": "gpt-researcher",
-        "instruction": "Write an essay about AI agents."
+        "instruction": "Write an essay about applications of quantum computing"
       },
       {
         "agent": "aider",
@@ -278,7 +278,27 @@ HTTP/WebSockets/Stdio        +----------------------+         +-----------------
 
 ---
 
+###  Open Discussions
+
+ACP main concepts:
+
+  - Architecture & Core Protocol Design
+  - Deployment & Infrastructure
+  - Data Security & Privacy
+  - Protocol Implementation & Encoding
+  - Testing & Quality Assurance
+  - MCP Integration & Compatibility
+  - UI & User Experience
+
+How collaborate:
+
+- [ACP Work streams](https://github.com/orgs/i-am-bee/discussions/488)
+- [BeeAI initial implementation](https://docs.beeai.dev/acp/spec/concepts/overview)
+
+---
+
 ## Thanks
 
-All the BeeAI team and contributors and the AI Dev 15 Organization
+All the BeeAI team and all contributors, and to you, for 
+your participation in this event.
 
