@@ -111,15 +111,16 @@ beeai provider list
 
 You can add providers, from local or remote sources:
 
-- Via Web
-
-[https://github.com/i-am-bee/beeai-provider-starter](https://github.com/i-am-bee/beeai-provider-starter)
-
 - From local 
 
 ```bash
 beeai provider add file://demo-agent/openai-provider-unmanaged.yaml
 ```
+
+- Via Web
+
+[https://github.com/i-am-bee/beeai-provider-starter](https://github.com/i-am-bee/beeai-provider-starter)
+
 ---
 ### Example of wrapping your agents
 
@@ -288,7 +289,7 @@ ACP main concepts:
   - Protocol Implementation & Encoding
   - Testing & Quality Assurance
   - MCP Integration & Compatibility
-  - UI & User Experience
+  - User&Agent Experience
 
 How collaborate:
 
